@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Condensed';
+    background-color: #002A2A;
+    color: #BCD637;
+}
+
+/* Nav menu */
+.nav_pic{width: 6em;}
+
+
+/* Desktop View */
+header a {
+    display: block;
+    color: #003718;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+nav ul li {
+    background-color: #0A5C66;
+    padding: 0.5em 1em 0.5em 1em;
+
+    border-radius: 2em;
+
+}
+
+nav ul li:hover{
+    background-color: #BCD637;
+}
+
+
+header{
+    display: flex; /* Puts elements side by side */
+    gap: 5em;
+    justify-content: center; 
+}
+
+nav{
+    display: inline-flex; /* This is to allow the ul to align-items vertically in the center */
+}
+
+nav ul{
+    display: inline-flex; /* This is to organize nav items in a row */
+    list-style: none;
+    align-items: center;
+
+    padding: 0;
+    gap: 2em;
+}
+
+nav a{
+    text-decoration: none; /* removes underline */
+}
+
+/* Media Queries */
+@media only screen and (min-width: 1160px){
+
+    #myTopnav{ /* This hides the simple menu until the screen is smaller than 1160px */
+        display: none;
+    }
+    }
+    
+    @media only screen and (max-width: 1160px){
+    
+        header{ /* This hides the complex menu when the screen is smaller than 1160px */
+            display: none;
+        }
+    }
+
+/* Mobile View - W3 CSS */
+.topnav {
+    overflow: hidden;
+    background-color: #0A5C66;
+}
+  
+.topnav a {
+    float: left;
+    display: block;
+    color: #003718;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+}
+  
+.topnav a:hover {
+    background-color: #BCD637;
+    color: black;
+}
+
+.topnav .icon {
+    display: none;
+}
+  
+@media screen and (max-width: 1160px) {
+    .topnav a:not(:first-child) {display: none;}
+    .topnav a.icon {
+      float: right;
+      display: block;
+    }
+}
+
+@media screen and (max-width: 1160px) {
+    .topnav.responsive {position: relative;}
+    .topnav.responsive .icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .topnav.responsive a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+}
