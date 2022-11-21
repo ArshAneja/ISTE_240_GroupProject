@@ -6,6 +6,37 @@ body{
     color: #BCD637;
 }
 
+.page_content{
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+#bannerimage {
+	width: 100%;
+	background-image: url(http://solace.ist.rit.edu/~nlg9323/240/groupProj/assets/img/python_pic_3.jpg);
+	height: 20em;
+	background-position: left;
+	background-size: cover;
+
+}
+
+/* Footer */
+.no_foot{
+    min-height: calc(100vh - 70px); /*This sets up the sticky footer */
+    
+}
+
+footer{
+    background-color: #0A5C66;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    padding: .5em;
+    margin-top: .25em;
+
+    height: 50px;
+}
+
 /* Nav menu */
 .nav_pic{width: 6em;}
 

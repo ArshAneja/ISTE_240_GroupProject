@@ -1,4 +1,6 @@
 <body>
+<div class="no_foot">
+
 <header>
             
         <a href="index.php"><img class="nav_pic" src="assets/img/logo.png" alt="project python logo"></a>
@@ -44,3 +46,5 @@ function myFunction() {
   }
 }
 </script>
+
+<div class="page_content">
