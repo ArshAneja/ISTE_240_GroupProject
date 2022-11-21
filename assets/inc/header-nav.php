@@ -47,4 +47,3 @@ function myFunction() {
 }
 </script>
 
-<div class="page_content">
