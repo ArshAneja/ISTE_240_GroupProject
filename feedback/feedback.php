@@ -22,7 +22,7 @@
 
     <!-- Completed Sections (checkbox)-->
     <fieldset class="form_elmnt">
-    <legend>Completed Sections <span class="asterisk">*</span> </legend>
+    <legend>Completed Sections </legend>
     <input type="checkbox" name="completed[]" value="Vocab" id="v"><label for="v">Vocabulary</label>
     <input type="checkbox" name="completed[]" value="Data Types" id="dt"><label for="dt">Data Types</label>
     <input type="checkbox" name="completed[]" value="Functions" id="f"><label for="f">Functions</label>
