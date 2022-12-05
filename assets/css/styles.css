@@ -150,5 +150,9 @@ nav a{
     }
 }
 
-
 /* Feedback */
+.form_elmnt{
+    margin: 10px;
+}
+
+.asterisk{color: red;}
