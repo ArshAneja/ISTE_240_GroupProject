@@ -3,6 +3,7 @@
 <script src="feedback.js"></script>
 <form action="feedback_process.php" method="POST" onsubmit="return validateForm()">
     <!-- Name (text)-->
+    <h1 class="form_elmnt"> Please Leave Feedback!</h1>
     <div class="form_elmnt">Enter your name
     <input type="text" id="visitor_name" name="visitor_name" placeholder="Enter Name">
     <span class="asterisk">*</span>
