@@ -20,6 +20,26 @@ body{
 
 }
 
+.animation-image {
+    width: 100px;
+    height: auto;
+
+    position: relative;
+    animation: snake 20s infinite;  
+}
+
+@keyframes snake {
+    0% {
+        left: 0px;
+    }
+    50% {
+        left: 100%;
+    }
+    100% {
+        left: 0px;
+    }
+}
+
 /* Footer */
 .no_foot{
     min-height: calc(100vh - 70px); /*This sets up the sticky footer */

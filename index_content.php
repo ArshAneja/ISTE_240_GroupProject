@@ -23,3 +23,7 @@
                     to connect existing components together.Some of the most common uses being Machine Learning, Data Analytics, 
                     Web Frameworks, Testing Suites, and so much more.</p>
 </div>
+
+<div class="animation">
+    <img class="animation-image" src="https://cdn.pixabay.com/photo/2013/07/13/13/42/snake-161424__480.png">
+</div>
