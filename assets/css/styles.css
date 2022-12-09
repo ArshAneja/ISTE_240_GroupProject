@@ -26,7 +26,7 @@ body{
     
 }
 
-footer{
+/* footer{
     background-color: #0A5C66;
     display: flex;
     justify-content: center;
@@ -35,7 +35,21 @@ footer{
     margin-top: .25em;
 
     height: 50px;
+} */
+
+footer{
+    background-color: #0A5C66;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    padding: 0.5em;
+    margin-top: 0.25em;
+    height: 50px;
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
 }
+
 
 /* Nav menu */
 .nav_pic{width: 6em;}
