@@ -156,3 +156,10 @@ nav a{
 }
 
 .asterisk{color: red;}
+
+
+/* Blog */
+.container{
+    margin-left: 8%;
+    margin-right: 8%;
+}
