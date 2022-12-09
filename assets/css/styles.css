@@ -40,6 +40,18 @@ body{
     }
 }
 
+.animation-header {
+    position: relative;
+    margin-left: -1em;
+    animation: header 5s 1;
+    left: 50%;
+}
+
+@keyframes header {
+    from {left: 0;}
+    to {left: 50%;}
+}
+
 /* Footer */
 .no_foot{
     min-height: calc(100vh - 70px); /*This sets up the sticky footer */

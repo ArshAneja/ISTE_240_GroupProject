@@ -1,4 +1,7 @@
 <div class="welcome">
+
+                <h1 class="animation-header">Python</h1>
+
                 <h2>Welcome!</h2>
 
                 <p>Hello and welcome to Project Python. Here you will learn the basics of Python, one of the 
