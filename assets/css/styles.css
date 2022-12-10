@@ -99,7 +99,7 @@ header a {
 
 nav ul li {
     background-color: #0A5C66;
-    padding: 0.5em 1em 0.5em 1em;
+    padding: 0.5em;
 
     border-radius: 2em;
 
@@ -126,7 +126,7 @@ nav ul{
     align-items: center;
 
     padding: 0;
-    gap: 2em;
+    gap: .5em;
 }
 
 nav a{

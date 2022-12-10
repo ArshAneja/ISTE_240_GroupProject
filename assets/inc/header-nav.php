@@ -3,15 +3,18 @@
 
 <header>
             
-        <a href="index.php"><img class="nav_pic" src="assets/img/logo.png" alt="project python logo"></a>
+        <a href="http://solace.ist.rit.edu/~iste240t38/groupProject/"><img class="nav_pic" src="https://people.rit.edu/~nlg9323/iste240/group_project/assets/img/logo.png" alt="project python logo"></a>
             <nav>
                 <ul>
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="/vocabulary/">Vocabulary</a></li>
-                    <li><a href="/data_types">Data Types</a></li>
-                    <li><a href="/functions/">Functions</a></li>
-                    <li><a href="/file_reading/">File Reading</a></li>
-                    <li><a href="/feedback/">Feedback</a></li>
+                    <li><a href="http://solace.ist.rit.edu/~iste240t38/groupProject/">Home</a></li>
+                    <li><a href="http://solace.ist.rit.edu/~iste240t38/groupProject/vocabulary/">Vocabulary</a></li>
+                    <li><a href="http://solace.ist.rit.edu/~iste240t38/groupProject/data_types">Data Types</a></li>
+                    <li><a href="http://solace.ist.rit.edu/~iste240t38/groupProject/functions/">Functions</a></li>
+                    <li><a href="http://solace.ist.rit.edu/~iste240t38/groupProject/file_reading/">File Reading</a></li>
+                    <li><a href="http://solace.ist.rit.edu/~iste240t38/groupProject/quiz/">Quiz</a></li>
+                    <li><a href="https://people.rit.edu/~nlg9323/iste240/group_project/feedback/">Feedback</a></li>
+                    <li><a href="http://solace.ist.rit.edu/~iste240t38/groupProject/blog/">Blog</a></li>
+                    <li><a href="http://solace.ist.rit.edu/~iste240t38/groupProject/resources/">Resources</a></li>
                 </ul>
             </nav>
 </header>
@@ -22,13 +25,16 @@
 
 <div class="topnav" id="myTopnav">
 
-    <a href="index.php"><img class="nav_pic" src="assets/img/logo.png" alt="project python logo"></a> 
-    <a href="index.php" class="active">Home</a>
-    <a href="/vocabulary/">Vocabulary</a>
-    <a href="/data_types">Data Types</a>
-    <a href="/functions/">Functions</a>
-    <a href="/file_reading/">File Reading</a>
-    <a href="/feedback/">Feedback</a>
+    <a href="http://solace.ist.rit.edu/~iste240t38/groupProject/"><img class="nav_pic" src="https://people.rit.edu/~nlg9323/iste240/group_project/assets/img/logo.png" alt="project python logo"></a> 
+    <a href="http://solace.ist.rit.edu/~iste240t38/groupProject/" class="active">Home</a>
+    <a href="http://solace.ist.rit.edu/~iste240t38/groupProject/vocabulary/">Vocabulary</a>
+    <a href="http://solace.ist.rit.edu/~iste240t38/groupProject/data_types">Data Types</a>
+    <a href="http://solace.ist.rit.edu/~iste240t38/groupProject/functions/">Functions</a>
+    <a href="http://solace.ist.rit.edu/~iste240t38/groupProject/file_reading/">File Reading</a>
+    <a href="http://solace.ist.rit.edu/~iste240t38/groupProject/quiz/">Quiz</a>
+    <a href="https://people.rit.edu/~nlg9323/iste240/group_project/feedback/">Feedback</a>
+    <a href="http://solace.ist.rit.edu/~iste240t38/groupProject/blog/">Blog</a>
+    <a href="http://solace.ist.rit.edu/~iste240t38/groupProject/resources/">Resources</a>
     
 
     <a href="javascript:void(0);" class="icon" onclick="myFunction()">
