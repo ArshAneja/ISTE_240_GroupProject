@@ -4,6 +4,7 @@ body{
     font-family: 'Roboto Condensed';
     background-color: #002A2A;
     color: #BCD637;
+    overflow-x: hidden;
 }
 
 .page_content{
